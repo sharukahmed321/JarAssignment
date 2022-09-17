@@ -42,5 +42,5 @@ Included Sample Unit test cases by using Junit.
 2. Import this project in any of your favorite IDE (Eclipse ot IntelliJ)
 3. open src/main/java , in that open the package com.backend.jar.assignment and click on AssignmentApplication.java which is the root file of our project.
 4. click run and you will see that project up and Running.
-5. Go to https://localhost:8000 to see the project up and running and you can hit the apis specified in the project. 
+5. Go to https://localhost:8080 to see the project up and running and you can hit the apis specified in the project. 
 6. If you want to see the swagger api documentation in this project - open this link ```http://localhost:8080/swagger-ui.html```
